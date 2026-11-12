@@ -1,7 +1,7 @@
 {
-  "version": "opt19",
-  "download_url": "https://github.com/yiyayiyayou02-dot/hong/releases/download/opt19/tsp-hong-merged-opt19.zip",
-  "size": 18284796,
-  "sha256": "956347eed973087725b312cd1971f1caae22cb242d58cef440a7d2b7a6bb01ab",
-  "published_at": "2026-11-12T09:15:00+08:00"
+  "version": "opt20",
+  "download_url": "https://github.com/yiyayiyayou02-dot/hong/releases/download/opt20/tsp-hong-merged-opt20.zip",
+  "size": 18321280,
+  "sha256": "ee5dcd10a5f14d506abd0ea829346dfe9c993eb42277945ee805492e8d604003",
+  "published_at": "2026-11-12T09:25:00+08:00"
 }
