@@ -1,9 +1,9 @@
 {
-  "version": "opt17",
-  "name": "Hong opt17",
-  "changelog": "自选分组批量移动和复制、配置保护与旧目录恢复",
-  "download_url": "https://github.com/yiyayiyayou02-dot/hong/releases/download/opt17/tsp-hong-merged-opt17.zip",
-  "size": 17401044,
-  "sha256": "0feae74abea4b4869dc1583ffe52c9c182c484e67eaeef201ecd694f11e81253",
-  "published_at": "2026-11-11T19:30:00+08:00"
+  "version": "opt18",
+  "name": "Hong opt18",
+  "changelog": "自选分组批量移动和复制、配置保护与旧目录恢复、自动升级器修复",
+  "download_url": "https://github.com/yiyayiyayou02-dot/hong/releases/download/opt18/tsp-hong-merged-opt18.zip",
+  "size": 17403495,
+  "sha256": "97ecfd0f9cc39837e50b753380b79a8cd7eba1a1dc1849d731a2a752e5dbe8ac",
+  "published_at": "2026-11-12T09:00:00+08:00"
 }
