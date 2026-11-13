@@ -1,7 +1,1 @@
-{
-  "version": "opt22",
-  "download_url": "https://github.com/yiyayiyayou02-dot/hong/releases/download/opt22/tsp-hong-merged-opt22.zip",
-  "size": 18583406,
-  "sha256": "d3a31cfeea7770ccc4baf9b85e40fca2ee28bc346cd6b857dfceab0d942f42eb",
-  "published_at": "2026-11-12T20:05:00+08:00"
-}
+{"changelog":"涨停原因接入（个股分析页新增涨停揭秘卡）+ 研报标的显示修复 + 飞书推送 + 构建安全修复","download_url":"https://github.com/yiyayiyayou02-dot/hong/releases/download/opt23/tsp-hong-merged-opt23.zip","name":"Hong opt23","published_at":"2026-11-13T08:30:00+08:00","sha256":"432e35aa8d0d8c4ad697d52a9b1770fcb5bdaf47ef1bca2da607a491c1baf394","size":18747916,"version":"opt23"}
